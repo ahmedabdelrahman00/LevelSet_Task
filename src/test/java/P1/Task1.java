@@ -1,4 +1,3 @@
-// Task1.java
 package P1;
 
 import Abstract.Abstract_pom;
