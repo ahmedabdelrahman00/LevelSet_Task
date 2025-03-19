@@ -1,4 +1,3 @@
-// Abstract_pom.java
 package Abstract;
 
 import org.openqa.selenium.By;
