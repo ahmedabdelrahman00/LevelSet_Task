@@ -22,7 +22,8 @@ This project is an automated test framework using **Selenium WebDriver** with **
 1️⃣ Clone this repository:
    ```sh
    git clone https://github.com/ahmedabdelrahman00/LevelSet_Task
-   cd your-repo
+   cd LevelSet_Task
+
    ```
 2️⃣ Install dependencies:
    ```sh
