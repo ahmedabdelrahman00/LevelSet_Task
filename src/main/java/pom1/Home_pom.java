@@ -1,4 +1,3 @@
-// Home_pom.java
 package pom1;
 
 import Abstract.Abstract_pom;
