@@ -21,7 +21,7 @@ This project is an automated test framework using Selenium WebDriver with TestNG
 ## Installation & Setup
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-repo.git
+   git clone https://github.com/ahmedabdelrahman00/LevelSet_Task
    cd your-repo
    ```
 2. Install dependencies:
@@ -73,13 +73,4 @@ This project is an automated test framework using Selenium WebDriver with TestNG
 - Modify **dynamic locators** in `Document_pom.java` for enhanced adaptability.
 - Update `getPriceLocator()` to customize price filtering criteria.
 
-## Troubleshooting
-- If tests fail due to browser version mismatch, update **ChromeDriver**.
-- Ensure proper internet connectivity for accessing external pages.
-- Increase wait times in `WaitForElement()` if elements load slowly.
 
-## Contribution
-Feel free to fork the repository, submit issues, and contribute improvements!
-
-## License
-This project is open-source and available under the [MIT License](LICENSE).
